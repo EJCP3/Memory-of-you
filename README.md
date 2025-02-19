@@ -11,7 +11,7 @@ Una aplicación de gestión de recuerdos que almacenará los datos en el localSt
 
 ### Links
 
-- URL del sitio activo: https://mytaskboardejcp.netlify.app
+- URL del sitio activo: https://memoryofyou00.netlify.app
 
 ## Mi proceso
 
